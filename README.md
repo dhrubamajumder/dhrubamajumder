@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-- 🌱 I’m currently learning **Django, Flask in ostad.**
+- 🌱 I’m currently learning **Django, Flask by myself.**
 
 - 📫 How to reach me **dhrubaa4bmajumder@gmail.com**
 
